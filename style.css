@@ -1,0 +1,18 @@
+.key{
+	margin:15px;
+	padding: 15px;
+	border:2px solid gold;
+	transform: all;
+}
+.keys{
+
+	display: flex;
+    justify-content: center;
+}
+.playing{
+	transform: scale(1.1);
+	border-color: #ffc600;
+}
+h1{
+	text-align: center;
+}
